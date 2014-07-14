@@ -1,0 +1,55 @@
+{
+  "timeline": [
+    {
+      "stamp": "Week 1 (7.14) | Sprint 1",
+      "links": {
+        "> Hosting & DNS : General": "hosting.html"
+      , "Security Config" : "#"
+      , "Backup Solution" : "#"
+      , "> Begin Front End Templating" : "frontend.html"
+      }
+    }
+  , {
+      "stamp": "Week 2 (7.21) | Sprint 2",
+      "links": {
+       "> Front End Templating (cont.)" : "frontend.html"
+      , "Testing" : "#"
+      }
+    },
+    {
+      "stamp": "Sprint 2 Deliverables",
+      "links": {
+        "Dev Link": "#"
+      }
+    }
+    , {
+      "stamp": "Week 3 (7.28) | Sprint 3",
+      "links": {
+        "Content Input" : "#"
+      , "Client changes" : "#"
+      , "Analytics" : "#"
+      , "Speed Optimization" : "#"
+      , "Testing": "#"
+      }
+    },
+    {
+      "stamp": "Sprint 3 Deliverables",
+      "links": {
+        "Live ready site": "#"
+      }
+    }
+    , {
+      "stamp": "Week 4 (8.4) | Sprint 4",
+      "links": {
+        "Quality Assurance Testing" : "#"
+      , "Launch": "#"
+      }
+    },
+    {
+      "stamp": "Sprint 4 Deliverables",
+      "links": {
+        "Live site": "#"
+      }
+    }
+  ]
+}
